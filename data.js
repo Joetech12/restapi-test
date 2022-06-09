@@ -1,4 +1,6 @@
-[
+
+
+export const datas = [
     {
       "userId": 1,
       "id": 1,
@@ -26,7 +28,7 @@
     {
       "userId": 1,
       "id": 5,
-      "title": "nesciunt quas odio",
+      "title": "Azaman",
       "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
     },
     {
